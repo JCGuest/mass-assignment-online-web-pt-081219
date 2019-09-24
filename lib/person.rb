@@ -3,5 +3,5 @@ class Person
 :wrist_size, :glove_size, :pant_length, :pant_width
 end
 
-  def initialize(attributes)
-    atrributes.each 
+  # def initialize(attributes)
+  #   atrributes.each 
